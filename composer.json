@@ -1,0 +1,14 @@
+{
+    "name": "brekitomasson/utility-php",
+    "description": "Simple-to-use library to enable utility function calculations in PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Breki Tomasson",
+            "email": "breki.tomasson@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
