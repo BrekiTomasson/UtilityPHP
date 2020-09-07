@@ -1,14 +1,22 @@
 {
-    "name": "brekitomasson/utility-php",
-    "description": "Simple-to-use library to enable utility function calculations in PHP.",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Breki Tomasson",
-            "email": "breki.tomasson@gmail.com"
-        }
-    ],
-    "minimum-stability": "beta",
-    "require": {}
+  "name": "brekitomasson/utility-php",
+  "description": "Simple-to-use library to enable utility function calculations in PHP.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Breki Tomasson",
+      "email": "breki.tomasson@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "BrekiTomasson\\UtilityPHP\\": "src"
+    }
+  },
+  "minimum-stability": "beta",
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^9.3"
+  }
 }
