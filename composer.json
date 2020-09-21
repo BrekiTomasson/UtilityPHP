@@ -1,5 +1,6 @@
 {
   "name": "brekitomasson/utility-php",
+  "version": "1.0.0",
   "description": "Simple-to-use library to enable utility function calculations in PHP.",
   "type": "library",
   "license": "MIT",
