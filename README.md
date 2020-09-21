@@ -16,7 +16,7 @@ of measurement - so long as it is consistent.
 
 To add this library to your project, simply require the package like so:
 
-`composer require brekitomasson/utilityphp`
+`composer require brekitomasson/utility-php`
 
 After having required the package in your project, you will be able to create a Utility Function object:
 
